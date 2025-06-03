@@ -3,6 +3,7 @@ package RoadToWork;
 public class lesson7Task4 {
     public static void main(String[] args) {
         System.out.println(calculate(15));
+
     }
 
     public static double calculate(int n) {
